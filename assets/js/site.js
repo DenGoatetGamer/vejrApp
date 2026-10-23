@@ -1,4 +1,4 @@
 // write cool JS hwere!!
-import { getData } from "assets/model/openMeteo.js";    
-
+import { getData } from "./model/openMeteo.js";    
+console.log("start")
 getData()   

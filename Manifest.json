@@ -1,0 +1,6 @@
+{ "name": "vejr", 
+"start_url":"./",
+ "display": "standalone",
+ "icons": [ { "src": "./assets/img/skilpadelogo.svg", 
+ "sizes":"285x285", "type": "image/svg+xml" } ]
+ }
